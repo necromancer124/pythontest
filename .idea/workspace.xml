@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d43da8e-df45-4224-83b4-8210509fa760" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/one.py" afterDir="false" />
+    <list default="true" id="8d43da8e-df45-4224-83b4-8210509fa760" name="Changes" comment="Market lab">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/marcket.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/marcket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/one.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +24,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "necromancer124"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="75c2fc1c-8443-4758-9947-cf3aae7cb433" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/necromancer124/pythontest.git",
+    "accountId": "07f181a4-5c86-4ed0-b218-0cafd3b4bae6"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nkD95fE4RrFdbvafhtBuEgP5wL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,9 +50,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.marcket.executor": "Run",
     "Python.one.executor": "Run",
+    "Python.two.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
@@ -68,14 +85,78 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729508026769</updated>
-      <workItem from="1729508037254" duration="211000" />
+      <workItem from="1729508037254" duration="4511000" />
     </task>
+    <task id="LOCAL-00001" summary="v1">
+      <option name="closed" value="true" />
+      <created>1729508323092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729508323092</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v1">
+      <option name="closed" value="true" />
+      <created>1729508371396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729508371396</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v1">
+      <option name="closed" value="true" />
+      <created>1729508615232</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729508615232</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v1">
+      <option name="closed" value="true" />
+      <created>1729509608941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729509608941</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v1">
+      <option name="closed" value="true" />
+      <created>1729510000241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729510000241</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v1">
+      <option name="closed" value="true" />
+      <created>1729511571212</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729511571212</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Market lab">
+      <option name="closed" value="true" />
+      <created>1729512167124</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729512167124</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1" />
+    <MESSAGE value="Market lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Market lab" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tests$two.coverage" NAME="two Coverage Results" MODIFIED="1729511343492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
     <SUITE FILE_PATH="coverage/Tests$one.coverage" NAME="one Coverage Results" MODIFIED="1729508153402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
+    <SUITE FILE_PATH="coverage/Tests$marcket.coverage" NAME="marcket Coverage Results" MODIFIED="1729512337325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
   </component>
 </project>
