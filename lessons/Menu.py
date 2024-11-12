@@ -1,6 +1,6 @@
 
 
-
+inp=True
 friends=["anton","samadra","dracula"]
 
 
@@ -48,9 +48,14 @@ def menu(x):
 
     if x == 3:
      NAzzeret(input("Number:"))
-pass
+
+
+
 #############################MAINMAINMAINMAINMAINMAIN###########################################
 
 
-while True:
- menu(input("a number"))
+while inp:
+ inp=input("a number")
+ if(int(inp)==4):
+     break
+ menu(inp)
